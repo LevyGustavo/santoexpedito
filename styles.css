@@ -321,7 +321,6 @@ header {
     line-height: 150%;
 }
 
-/* Media Queries for Mobile */
 @media (max-width: 768px) {
     .beneficios {
         display: block;
@@ -439,7 +438,6 @@ header {
     margin-bottom: -100px;
 }
 
-/* Media Queries for Mobile */
 @media (max-width: 768px) {
     .contribuir {
         flex-direction: column;
@@ -496,7 +494,7 @@ header {
     justify-content: space-between;
     align-items: flex-start;
     padding: 50px;
-    background-image: url("https://i.postimg.cc/MTyWKf5b/Group-22-1.jpg"); /* Substitua pelo URL da sua imagem de fundo */
+    background-image: url("https://i.postimg.cc/MTyWKf5b/Group-22-1.jpg"); 
     background-size: cover;
     background-position: center;
 }
@@ -710,7 +708,6 @@ header {
 
 }
 
-/* Media Queries for Mobile */
 @media (max-width: 768px) {
     .footer-container {
         flex-direction: column;
